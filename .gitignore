@@ -280,6 +280,7 @@ node_modules/
 
 # Visual Studio 6 workspace options file
 *.opt
+*.sln
 
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
 *.vbw
