@@ -84,6 +84,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="CryptoChallenge_TemporaryKey.pfx" />
+    <None Include="data\en-US.dic" />
     <None Include="packages.config" />
     <None Include="packages\NetSpell.2.1.7\.signature.p7s" />
     <None Include="packages\NetSpell.2.1.7\dic\en-US.dic" />
