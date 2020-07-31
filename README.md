@@ -13,3 +13,5 @@ You can open the app by double click or by command line.
 
 #### If you double click CryptoChallenge.exe it will ask you for the filename
 ![Example of double click call](https://github.com/MarceloHeredia/crypto-challenge/blob/master/imgs/exe_example.png)
+
+After that the program will search for the best key to solve the encryption and show the resulting text on the console.
