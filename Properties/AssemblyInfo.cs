@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("CryptoChallenge")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Challenge for LIS  PUCRS/HP")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Marcelo Heredia")]
 [assembly: AssemblyProduct("CryptoChallenge")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
