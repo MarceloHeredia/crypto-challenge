@@ -73,11 +73,13 @@ namespace CryptoChallenge
             catch (FileNotFoundException)
             {
                 Console.WriteLine("File not found!");
+                Console.ReadKey();
             }
             catch (Exception)
             {
                 Console.WriteLine("Something really unexpected happened! :( \n" +
                                             "Shutting down the application...");
+                Console.ReadKey();
             }
         }
 
